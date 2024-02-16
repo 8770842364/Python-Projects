@@ -1,2 +1,2 @@
-# Python-Projects
-Python &amp; Django Project Online Hobby School
+python django project
+online hobby school
